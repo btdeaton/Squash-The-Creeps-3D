@@ -1,0 +1,8 @@
+res://main.tscn
+res://player.tscn
+res://player.gd
+res://mob.gd
+res://main.gd
+res://mob.tscn
+res://score_label.gd
+res://music_player.tscn
